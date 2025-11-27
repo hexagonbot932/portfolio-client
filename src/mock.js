@@ -7,7 +7,7 @@ export const portfolioData = {
     email: "HELLO@COZY.COM",
     yearsExperience: 11,
     availableForWork: true,
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=800&fit=crop",
+    image: "https://unsplash.com/photos/man-in-white-crew-neck-shirt-wearing-black-framed-eyeglasses-C8Ta0gwPbQg",
     mission: "I design meaningful products that create positive impact and deliver exceptional user experiences."
   },
 
